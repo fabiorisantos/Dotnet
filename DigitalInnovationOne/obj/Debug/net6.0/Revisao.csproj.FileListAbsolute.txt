@@ -1,0 +1,15 @@
+C:\Users\Fábio\Documents\GitHub\Dotnet\DigitalInnovationOne\bin\Debug\net6.0\Revisao.exe
+C:\Users\Fábio\Documents\GitHub\Dotnet\DigitalInnovationOne\bin\Debug\net6.0\Revisao.deps.json
+C:\Users\Fábio\Documents\GitHub\Dotnet\DigitalInnovationOne\bin\Debug\net6.0\Revisao.runtimeconfig.json
+C:\Users\Fábio\Documents\GitHub\Dotnet\DigitalInnovationOne\bin\Debug\net6.0\Revisao.dll
+C:\Users\Fábio\Documents\GitHub\Dotnet\DigitalInnovationOne\bin\Debug\net6.0\ref\Revisao.dll
+C:\Users\Fábio\Documents\GitHub\Dotnet\DigitalInnovationOne\bin\Debug\net6.0\Revisao.pdb
+C:\Users\Fábio\Documents\GitHub\Dotnet\DigitalInnovationOne\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+C:\Users\Fábio\Documents\GitHub\Dotnet\DigitalInnovationOne\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio\Documents\GitHub\Dotnet\DigitalInnovationOne\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\Fábio\Documents\GitHub\Dotnet\DigitalInnovationOne\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+C:\Users\Fábio\Documents\GitHub\Dotnet\DigitalInnovationOne\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\GitHub\Dotnet\DigitalInnovationOne\obj\Debug\net6.0\Revisao.dll
+C:\Users\Fábio\Documents\GitHub\Dotnet\DigitalInnovationOne\obj\Debug\net6.0\ref\Revisao.dll
+C:\Users\Fábio\Documents\GitHub\Dotnet\DigitalInnovationOne\obj\Debug\net6.0\Revisao.pdb
+C:\Users\Fábio\Documents\GitHub\Dotnet\DigitalInnovationOne\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
